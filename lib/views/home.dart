@@ -15,7 +15,7 @@ class Home extends StatefulWidget{
 class HomeState extends State<Home>{
   bool loading;
   var newslist;
-  List<CategoryModel> categories = new List<CategoryModel>();
+  List<CategoryModel> categories = new List<CategoryModel>(); 
    void getNews() async {
     News news = News();
     await news.getNews();
