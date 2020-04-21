@@ -1,6 +1,6 @@
 # seventh_erudition
 
-A new Flutter project.
+Flutter Project Aimed at providing quality news with regular updates from liable sources.
 
 ## Getting Started
 
